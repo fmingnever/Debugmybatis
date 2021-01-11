@@ -7,11 +7,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DebugmybatisApplication {
 
     public static void main(String[] args) {
-        //开始1
+        //开始
         SpringApplication.run(DebugmybatisApplication.class, args);
     }
 
-
+    public void run(){}
 
 
 }
